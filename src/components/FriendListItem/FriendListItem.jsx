@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import css from "../FriendList/FriendListItem.module.css";
+import css from "../FriendListItem/FriendListItem.module.css";
 
 const FriendListItem = ({ name, avatar, isOnline }) => {
   return (
